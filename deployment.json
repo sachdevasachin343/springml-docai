@@ -1,0 +1,11 @@
+{
+	"PROJECT_ID": "springml-docai",
+	"SAMPLE_DOCS": "documents_samples_test1",
+	"IMAGE_DESTINATION_DIR": "invoice_documents_processed",
+	"TEMPLATE_FOLDER": "documents_metadata",
+	"IMAGE_SOURCE_DIR": "documents_runtime",
+	"APP_DATA_BUCKER": "doc_bot_data",
+	"FIREBASE_SECRET_ID": "docai-firebase-admin",
+	"STORAGE_OPTION":"GCS",
+	"FIREBASE_API_KEY": "abc"
+}
